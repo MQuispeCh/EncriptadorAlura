@@ -17,7 +17,7 @@
 ## 🎮 Demostración en Vivo
 <div align="center">
   <h3>
-    <a href="https://mquispech.github.io/encriptador-de-textos/" target="_blank" >
+    <a href="https://mquispech.github.io/EncriptadorAlura/" target="_blank" >
       🔗 ¡Descubre cómo funciona el Encriptador de Textos ahora!
     </a>
   </h3>
